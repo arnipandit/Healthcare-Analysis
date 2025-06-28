@@ -44,9 +44,4 @@ Cleaned and analyzed data for a very large and high-dimensional health care data
 Visualized relationships between categorical & continuous health features.
 Discussed the meaningfulness of overall importance of heart disease risk features.
 
-# Univariate and Multivariate Analysis
-
-What is the age distribution of the participants?
-
-![image](https://github.com/user-attachments/assets/1433deb8-0a4c-42bf-9d45-774015307c7c)
 
